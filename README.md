@@ -30,21 +30,17 @@ I enjoy transforming complex business workflows into **clean, maintainable, and 
 <a href="https://linkedin.com/in/nmjutty69" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin nmjutty69" height="30" width="40" />
 </a>
-
 <a href="https://facebook.com/nmjutty69" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook nmjutty69" height="30" width="40" />
 </a>
-
 <a href="https://instagram.com/nmjutty69" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram nmjutty69" height="30" width="40" />
 </a>
-
 <a href="https://www.youtube.com/@nmjutty69" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube nmjutty69" height="30" width="40" />
 </a>
-
 <a href="mailto:nauman.dev001@gmail.com" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="email nmjutty69" height="30" width="40" />
+    <img align="center" src="https://cdn.simpleicons.org/gmail?viewbox=auto&size=32" alt="email nmjutty69" height="30" width="40" />
 </a>
 
 ---
