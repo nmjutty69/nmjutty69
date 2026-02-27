@@ -27,6 +27,21 @@ I enjoy transforming complex business workflows into **clean, maintainable, and 
 ---
 
 ## 🌐 Socials
+<a href="https://linkedin.com/in/nmjutty69" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin nmjutty69" height="30" width="40" />
+</a>
+
+<a href="https://facebook.com/nmjutty69" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook nmjutty69" height="30" width="40" />
+</a>
+
+<a href="https://instagram.com/nmjutty69" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram nmjutty69" height="30" width="40" />
+</a>
+
+<a href="https://www.youtube.com/@nmjutty69" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube nmjutty69" height="30" width="40" />
+</a>
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nmjutty69)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nmjutty69)
