@@ -28,21 +28,11 @@ I enjoy transforming complex business workflows into **clean, maintainable, and 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/nmjutty69" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="30" />
-  </a>
-  <a href="https://facebook.com/nmjutty69" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="30" />
-  </a>
-  <a href="https://instagram.com/nmjutty69" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="30" />
-  </a>
-  <a href="https://www.youtube.com/@nmjutty69" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" height="30" />
-  </a>
-  <a href="mailto:nauman.dev001@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail" alt="Gmail" width="40" height="30" />
-  </a>
+  <a href="https://linkedin.com/in/nmjutty69" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="30" /></a>
+  <a href="https://facebook.com/nmjutty69" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="30" /></a>
+  <a href="https://instagram.com/nmjutty69" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="30" /></a>
+  <a href="https://www.youtube.com/@nmjutty69" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" height="30" /></a>
+  <a href="mailto:nauman.dev001@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail" alt="Gmail" width="40" height="30" /></a>
 </p>
 
 ---
