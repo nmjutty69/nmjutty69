@@ -37,7 +37,7 @@ I enjoy transforming complex business workflows into **clean, maintainable, and 
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Backend & APIs
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
@@ -81,6 +81,18 @@ I enjoy transforming complex business workflows into **clean, maintainable, and 
 ![](https://github-readme-stats.vercel.app/api?username=nmjutty69&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=nmjutty69&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nmjutty69&theme=dark&hide_border=false&layout=compact)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nmjutty69&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nmjutty69&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nmjutty69&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nmjutty69&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nmjutty69&theme=github_dark&utcOffset=5)
+
+![](https://github-contributor-stats.vercel.app/api?username=nmjutty69&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=nmjutty69&theme=github-dark)
+
+![](https://komarev.com/ghpvc/?username=nmjutty69&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
