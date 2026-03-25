@@ -78,19 +78,19 @@ I enjoy transforming complex business workflows into **clean, maintainable, and 
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=nmjutty69&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=nmjutty69&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nmjutty69&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=nmjutty69&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github)
+
+![](https://nirzak-streak-stats.vercel.app/?user=nmjutty69&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nmjutty69&theme=github_dark&hide_border=true&layout=compact)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nmjutty69&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nmjutty69&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nmjutty69&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nmjutty69&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nmjutty69&theme=github_dark&utcOffset=5)
 
-![](https://github-contributor-stats.vercel.app/api?username=nmjutty69&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=nmjutty69&limit=8&theme=github_dark&combine_all_yearly_contributions=true)
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=nmjutty69&theme=github-dark)
+![](https://github-profile-trophy.vercel.app/?username=nmjutty69&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6)
 
 ![](https://komarev.com/ghpvc/?username=nmjutty69&label=Profile%20Views&color=0e75b6&style=flat)
 
