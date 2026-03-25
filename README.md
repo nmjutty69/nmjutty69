@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./Banner.png" alt="Nauman Malik Banner" width="100%" />
+</p>
+
 #  About Me
 
 I’m a results-oriented software engineer with hands-on experience in building web applications, automating processes, and integrating AI-powered chatbots and intelligent features. I enjoy working across the full development lifecycle and focus on creating practical solutions that simplify workflows, improve efficiency, and add real value.
