@@ -4,28 +4,28 @@
 
 #  About Me
 
-I’m a results-oriented software engineer with hands-on experience in building web applications, automating processes, and integrating AI-powered chatbots and intelligent features. I enjoy working across the full development lifecycle and focus on creating practical solutions that simplify workflows, improve efficiency, and add real value.
+An experienced software engineer with a strong analytical mindset, specializing in building scalable systems with AI-driven capabilities and intelligent automation. Focused on simplifying complex workflows, optimizing performance, and delivering practical, data-driven solutions.
 
-🔭 **Currently working on**  
+**Currently working on**  
 • Enterprise SaaS platforms using **.NET Core, Clean Architecture, and Next.js**  
 • **AI-powered solutions** including chatbots using **RAG, LLMs, and AI integrations**
 
-👯 **Open to collaborating on**  
+ **Open to collaborating on**  
 • Open-source projects  
 • Scalable SaaS products  
 • Distributed systems & system design initiatives
 
-🌱 **Currently exploring**  
+ **Currently exploring**  
 • **Microservices & API Gateways (YARP)**  
 • Cloud-native & distributed architectures  
 • Advanced **DevOps, performance tuning, and cloud cost optimization**
 
-💬 **Ask me about**  
+ **Ask me about**  
 • .NET Core, Clean Architecture, Next.js, Zustand  
 • System design, dashboards, APIs, SQL  
 • AI integrations & backend architecture
 
-⚡ **Fun fact**  
+ **Fun fact**  
 I enjoy transforming complex business workflows into **clean, maintainable, and scalable architectures**
 
 ---
@@ -80,7 +80,7 @@ I enjoy transforming complex business workflows into **clean, maintainable, and 
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=nmjutty69&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github)
 
@@ -100,7 +100,7 @@ I enjoy transforming complex business workflows into **clean, maintainable, and 
 
 ---
 
-### ✍️ Random Dev Quote
+###  Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
