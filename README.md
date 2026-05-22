@@ -4,7 +4,7 @@
 
 #  About Me
 
-An experienced software engineer with a strong analytical mindset, specializing in building scalable systems with AI-driven capabilities and intelligent automation. Focused on simplifying complex workflows, optimizing performance, and delivering practical, data-driven solutions.
+An experienced software engineer with 1+ year of healthcare domain experience and a strong analytical mindset, specializing in building scalable systems with AI-driven capabilities and intelligent automation. Focused on simplifying complex workflows, optimizing performance, and delivering practical, data-driven solutions.
 
 **Currently working on**  
 • Enterprise SaaS platforms using **.NET Core, Clean Architecture, and Next.js**  
