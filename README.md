@@ -552,7 +552,7 @@ Open_To:
   - Open Source Collaboration
 ```
 
-#Connect
+**Connect**
 
 <p align="center">
   <a href="https://nmjutty69.github.io" target="_blank">
