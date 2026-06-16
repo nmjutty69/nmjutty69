@@ -62,142 +62,165 @@ My engineering approach is product-driven: I care about performance, maintainabi
 ## Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,c,java,py,js,ts,php" />
+  <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" title="C#" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" title="C++" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" title="C" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" title="Java" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" title="Python" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" title="JavaScript" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" title="TypeScript" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" title="PHP" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" title="SQL" />
 </p>
 
 ## Web Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" title="HTML5" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" title="CSS3" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" title="Tailwind CSS" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" title="Bootstrap" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ShadCN%2FUI-111827?style=for-the-badge&logo=shadcnui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Responsive%20Design-2563EB?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dark%20Mode-312E81?style=for-the-badge&logo=darkreader&logoColor=white" />
-  <img src="https://img.shields.io/badge/Skeleton%20Loading-7C3AED?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/ShadCN%2FUI-111827?style=for-the-badge&logo=shadcnui&logoColor=white" alt="ShadCN UI" title="ShadCN UI" />
+  <img src="https://img.shields.io/badge/Responsive%20Design-2563EB?style=for-the-badge&logo=css3&logoColor=white" alt="Responsive Design" title="Responsive Design" />
+  <img src="https://img.shields.io/badge/Dark%20Mode-312E81?style=for-the-badge&logo=darkreader&logoColor=white" alt="Dark Mode" title="Dark Mode" />
+  <img src="https://img.shields.io/badge/Skeleton%20Loading-7C3AED?style=for-the-badge&logo=react&logoColor=white" alt="Skeleton Loading" title="Skeleton Loading" />
 </p>
 
 ## Frontend Libraries & Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React.js" title="React.js" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" title="Next.js" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20Three%20Fiber-7C3AED?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Real--Time%20UI-2563EB?style=for-the-badge&logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data--Intensive%20Dashboards-4F46E5?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" title="React.js" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" title="Next.js" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" title="Three.js" />
+  <img src="https://img.shields.io/badge/React%20Three%20Fiber-7C3AED?style=for-the-badge&logo=react&logoColor=white" alt="React Three Fiber" title="React Three Fiber" />
+  <img src="https://img.shields.io/badge/Real--Time%20UI-2563EB?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Real-Time UI" title="Real-Time UI" />
+  <img src="https://img.shields.io/badge/Data--Intensive%20Dashboards-4F46E5?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Data-Intensive Dashboards" title="Data-Intensive Dashboards" />
 </p>
 
 ## Backend Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,laravel" />
+  <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET / ASP.NET Core" title=".NET / ASP.NET Core" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" title="Laravel" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entity%20Framework-7C3AED?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/ADO.NET-4F46E5?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/RESTful%20APIs-2563EB?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" title="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET MVC" title="ASP.NET MVC" />
+  <img src="https://img.shields.io/badge/Entity%20Framework-7C3AED?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework" title="Entity Framework" />
+  <img src="https://img.shields.io/badge/ADO.NET-4F46E5?style=for-the-badge&logo=dotnet&logoColor=white" alt="ADO.NET" title="ADO.NET" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" title="Laravel" />
+  <img src="https://img.shields.io/badge/RESTful%20APIs-2563EB?style=for-the-badge&logo=fastapi&logoColor=white" alt="RESTful APIs" title="RESTful APIs" />
 </p>
 
 ## Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database%20Design-312E81?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stored%20Procedures-4F46E5?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Query%20Optimization-2563EB?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" title="SQL Server" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" title="MySQL" />
+  <img src="https://img.shields.io/badge/Database%20Design-312E81?style=for-the-badge&logo=databricks&logoColor=white" alt="Database Design" title="Database Design" />
+  <img src="https://img.shields.io/badge/Stored%20Procedures-4F46E5?style=for-the-badge&logo=databricks&logoColor=white" alt="Stored Procedures" title="Stored Procedures" />
+  <img src="https://img.shields.io/badge/Query%20Optimization-2563EB?style=for-the-badge&logo=databricks&logoColor=white" alt="Query Optimization" title="Query Optimization" />
 </p>
 
 ## AI & Intelligent Systems
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Chatbots-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLMs-4F46E5?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG%20Pipelines-312E81?style=for-the-badge&logo=semanticweb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Embedding%20Models-2563EB?style=for-the-badge&logo=vectorlogozone&logoColor=white" />
-  <img src="https://img.shields.io/badge/Context--Aware%20Assistants-A855F7?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Document--Aware%20AI-4F46E5?style=for-the-badge&logo=readthedocs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Voice%20AI-ElevenLabs-7C3AED?style=for-the-badge&logo=elevenlabs&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Chatbots-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="AI Chatbots" title="AI Chatbots" />
+  <img src="https://img.shields.io/badge/LLMs-4F46E5?style=for-the-badge&logo=openai&logoColor=white" alt="Large Language Models" title="Large Language Models" />
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-312E81?style=for-the-badge&logo=semanticweb&logoColor=white" alt="RAG Pipelines" title="RAG Pipelines" />
+  <img src="https://img.shields.io/badge/Embedding%20Models-2563EB?style=for-the-badge&logo=vectorlogozone&logoColor=white" alt="Embedding Models" title="Embedding Models" />
+  <img src="https://img.shields.io/badge/Context--Aware%20Assistants-A855F7?style=for-the-badge&logo=anthropic&logoColor=white" alt="Context-Aware Assistants" title="Context-Aware Assistants" />
+  <img src="https://img.shields.io/badge/Document--Aware%20AI-4F46E5?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Document-Aware AI" title="Document-Aware AI" />
+  <img src="https://img.shields.io/badge/Voice%20AI-ElevenLabs-7C3AED?style=for-the-badge&logo=elevenlabs&logoColor=white" alt="Voice AI with ElevenLabs" title="Voice AI with ElevenLabs" />
 </p>
 
 ## Automation & Agent Tooling
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OpenClaw-AI%20Agent%20Runtime-4F46E5?style=for-the-badge&logo=robotframework&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zapier-Workflow%20Automation-FF4F00?style=for-the-badge&logo=zapier&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-Automation%20Workflows-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Background%20Jobs-312E81?style=for-the-badge&logo=clockify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scheduled%20Workflows-2563EB?style=for-the-badge&logo=googlecalendar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Real--Time%20Notifications-7C3AED?style=for-the-badge&logo=notifications&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenClaw-AI%20Agent%20Runtime-4F46E5?style=for-the-badge&logo=robotframework&logoColor=white" alt="OpenClaw" title="OpenClaw AI Agent Runtime" />
+  <img src="https://img.shields.io/badge/Zapier-Workflow%20Automation-FF4F00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier" title="Zapier Workflow Automation" />
+  <img src="https://img.shields.io/badge/n8n-Automation%20Workflows-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" title="n8n Automation Workflows" />
+  <img src="https://img.shields.io/badge/Background%20Jobs-312E81?style=for-the-badge&logo=clockify&logoColor=white" alt="Background Jobs" title="Background Jobs" />
+  <img src="https://img.shields.io/badge/Scheduled%20Workflows-2563EB?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Scheduled Workflows" title="Scheduled Workflows" />
+  <img src="https://img.shields.io/badge/Real--Time%20Notifications-7C3AED?style=for-the-badge&logo=notifications&logoColor=white" alt="Real-Time Notifications" title="Real-Time Notifications" />
 </p>
 
 ## APIs, Realtime & Integrations
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agora.io-099DFD?style=for-the-badge&logo=webrtc&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT%20Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/MFA%20Security-4F46E5?style=for-the-badge&logo=auth0&logoColor=white" />
-  <img src="https://img.shields.io/badge/Billing%20Workflows-7C3AED?style=for-the-badge&logo=stripe&logoColor=white" />
-  <img src="https://img.shields.io/badge/Email%20%26%20SMS%20Automation-2563EB?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="SignalR" title="SignalR" />
+  <img src="https://img.shields.io/badge/Agora.io-099DFD?style=for-the-badge&logo=webrtc&logoColor=white" alt="Agora.io" title="Agora.io" />
+  <img src="https://img.shields.io/badge/JWT%20Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT Authentication" title="JWT Authentication" />
+  <img src="https://img.shields.io/badge/MFA%20Security-4F46E5?style=for-the-badge&logo=auth0&logoColor=white" alt="MFA Security" title="MFA Security" />
+  <img src="https://img.shields.io/badge/Billing%20Workflows-7C3AED?style=for-the-badge&logo=stripe&logoColor=white" alt="Billing Workflows" title="Billing Workflows" />
+  <img src="https://img.shields.io/badge/Email%20%26%20SMS%20Automation-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email and SMS Automation" title="Email and SMS Automation" />
 </p>
 
 ## Version Control & API Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,postman" />
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" title="Git" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" title="Postman" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bruno-F4AA41?style=for-the-badge&logo=bruno&logoColor=black" />
-  <img src="https://img.shields.io/badge/API%20Testing-312E81?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/API%20Documentation-4F46E5?style=for-the-badge&logo=swagger&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" title="Swagger" />
+  <img src="https://img.shields.io/badge/Bruno-F4AA41?style=for-the-badge&logo=bruno&logoColor=black" alt="Bruno" title="Bruno API Client" />
+  <img src="https://img.shields.io/badge/API%20Testing-312E81?style=for-the-badge&logo=postman&logoColor=white" alt="API Testing" title="API Testing" />
+  <img src="https://img.shields.io/badge/API%20Documentation-4F46E5?style=for-the-badge&logo=swagger&logoColor=white" alt="API Documentation" title="API Documentation" />
 </p>
 
 ## IDEs, Database Tools & Collaboration
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48" alt="Visual Studio" title="Visual Studio" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" title="VS Code" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SSMS-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSMS-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server Management Studio" title="SQL Server Management Studio" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" title="Slack" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" title="Visual Studio" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" title="VS Code" />
 </p>
 
 ## Development Practices
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MVC%20Architecture-312E81?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RESTful%20API%20Development-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Entity%20Framework-7C3AED?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/ADO.NET-4F46E5?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/RBAC-312E81?style=for-the-badge&logo=auth0&logoColor=white" />
-  <img src="https://img.shields.io/badge/Audit%20Logging-4F46E5?style=for-the-badge&logo=datadog&logoColor=white" />
-  <img src="https://img.shields.io/badge/Workflow%20Orchestration-7C3AED?style=for-the-badge&logo=airflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/MVC%20Architecture-312E81?style=for-the-badge" alt="MVC Architecture" title="MVC Architecture" />
+  <img src="https://img.shields.io/badge/RESTful%20API%20Development-2563EB?style=for-the-badge" alt="RESTful API Development" title="RESTful API Development" />
+  <img src="https://img.shields.io/badge/Entity%20Framework-7C3AED?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework" title="Entity Framework" />
+  <img src="https://img.shields.io/badge/ADO.NET-4F46E5?style=for-the-badge&logo=dotnet&logoColor=white" alt="ADO.NET" title="ADO.NET" />
+  <img src="https://img.shields.io/badge/RBAC-312E81?style=for-the-badge&logo=auth0&logoColor=white" alt="Role-Based Access Control" title="Role-Based Access Control" />
+  <img src="https://img.shields.io/badge/Audit%20Logging-4F46E5?style=for-the-badge&logo=datadog&logoColor=white" alt="Audit Logging" title="Audit Logging" />
+  <img src="https://img.shields.io/badge/Workflow%20Orchestration-7C3AED?style=for-the-badge&logo=airflow&logoColor=white" alt="Workflow Orchestration" title="Workflow Orchestration" />
 </p>
-
 ---
 
 # AI / ML Expertise
