@@ -24,71 +24,7 @@
 
 <br/>
 
-<p align="center">
-  <a href="https://nmjutty69.github.io" target="_blank">
-    <img src="https://img.icons8.com/fluency/96/domain.png" width="46" height="46" alt="Portfolio" title="Portfolio" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/nmjutty69" target="_blank">
-    <img src="https://img.icons8.com/color/96/linkedin.png" width="46" height="46" alt="LinkedIn" title="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/nmjutty69" target="_blank">
-    <img src="https://img.icons8.com/glyph-neue/96/ffffff/github.png" width="46" height="46" alt="GitHub" title="GitHub" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:nauman.dev001@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/96/gmail-new.png" width="46" height="46" alt="Gmail" title="Gmail" />
-  </a>
-</p>
 
-<br/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nmjutty69&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" alt="Profile Views" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/FOLLOWERS-2-4F46E5?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" alt="GitHub Followers" />
-</p>
-
-<br/>
-
-<h3 align="center">Professional Profiles</h3>
-
-<p align="center">
- <a href="https://upwork.com/freelancers/~01cfa2a4d7629ccc2a" target="_blank">
-    <img src="https://cdn.simpleicons.org/upwork/14A800" width="42" height="42" alt="Upwork" title="Upwork" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.fiverr.com/users/nmjutty69/" target="_blank">
-    <img src="https://img.icons8.com/color/96/fiverr.png" width="46" height="46" alt="Fiverr" title="Fiverr" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/nmjutty69" target="_blank">
-    <img src="https://img.icons8.com/glyph-neue/96/ffffff/github.png" width="46" height="46" alt="GitHub" title="GitHub" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/nmjutty69" target="_blank">
-    <img src="https://img.icons8.com/color/96/linkedin.png" width="46" height="46" alt="LinkedIn" title="LinkedIn" />
-  </a>
-</p>
-
-<br/>
-
-<h3 align="center">Social Presence</h3>
-
-<p align="center">
-  <a href="https://instagram.com/nmjutty69" target="_blank">
-    <img src="https://img.icons8.com/fluency/96/instagram-new.png" width="46" height="46" alt="Instagram" title="Instagram" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@nmjutty69" target="_blank">
-    <img src="https://img.icons8.com/color/96/youtube-play.png" width="46" height="46" alt="YouTube" title="YouTube" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://facebook.com/nmjutty69" target="_blank">
-    <img src="https://img.icons8.com/color/96/facebook-new.png" width="46" height="46" alt="Facebook" title="Facebook" />
-  </a>
-</p>
 ---
 
 # About
@@ -615,6 +551,75 @@ Open_To:
   - SaaS Product Engineering
   - Open Source Collaboration
 ```
+
+#Connect
+
+<p align="center">
+  <a href="https://nmjutty69.github.io" target="_blank">
+    <img src="https://img.icons8.com/fluency/96/domain.png" width="46" height="46" alt="Portfolio" title="Portfolio" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/nmjutty69" target="_blank">
+    <img src="https://img.icons8.com/color/96/linkedin.png" width="46" height="46" alt="LinkedIn" title="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/nmjutty69" target="_blank">
+    <img src="https://img.icons8.com/glyph-neue/96/ffffff/github.png" width="46" height="46" alt="GitHub" title="GitHub" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:nauman.dev001@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/96/gmail-new.png" width="46" height="46" alt="Gmail" title="Gmail" />
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nmjutty69&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" alt="Profile Views" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/FOLLOWERS-2-4F46E5?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" alt="GitHub Followers" />
+</p>
+
+<br/>
+
+<h3 align="center">Professional Profiles</h3>
+
+<p align="center">
+ <a href="https://upwork.com/freelancers/~01cfa2a4d7629ccc2a" target="_blank">
+    <img src="https://cdn.simpleicons.org/upwork/14A800" width="42" height="42" alt="Upwork" title="Upwork" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.fiverr.com/users/nmjutty69/" target="_blank">
+    <img src="https://img.icons8.com/color/96/fiverr.png" width="46" height="46" alt="Fiverr" title="Fiverr" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/nmjutty69" target="_blank">
+    <img src="https://img.icons8.com/glyph-neue/96/ffffff/github.png" width="46" height="46" alt="GitHub" title="GitHub" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/nmjutty69" target="_blank">
+    <img src="https://img.icons8.com/color/96/linkedin.png" width="46" height="46" alt="LinkedIn" title="LinkedIn" />
+  </a>
+</p>
+
+<br/>
+
+<h3 align="center">Social Presence</h3>
+
+<p align="center">
+  <a href="https://instagram.com/nmjutty69" target="_blank">
+    <img src="https://img.icons8.com/fluency/96/instagram-new.png" width="46" height="46" alt="Instagram" title="Instagram" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@nmjutty69" target="_blank">
+    <img src="https://img.icons8.com/color/96/youtube-play.png" width="46" height="46" alt="YouTube" title="YouTube" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://facebook.com/nmjutty69" target="_blank">
+    <img src="https://img.icons8.com/color/96/facebook-new.png" width="46" height="46" alt="Facebook" title="Facebook" />
+  </a>
+</p>
+
 
 
 <p align="center">
