@@ -55,8 +55,8 @@
 <h3 align="center">Professional Profiles</h3>
 
 <p align="center">
-  <a href="https://upwork.com/freelancers/~01cfa2a4d7629ccc2a" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-upwork-is-a-global-freelancing-platform-where-businesses-and-independent-professionals-connect-logo-color-tal-revivo.png" width="46" height="46" alt="Upwork" title="Upwork" />
+ <a href="https://upwork.com/freelancers/~01cfa2a4d7629ccc2a" target="_blank">
+    <img src="https://cdn.simpleicons.org/upwork/14A800" width="42" height="42" alt="Upwork" title="Upwork" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.fiverr.com/users/nmjutty69/" target="_blank">
@@ -77,7 +77,7 @@
 <h3 align="center">Social Presence</h3>
 
 <p align="center">
-  <a href="https://instagram.com/bytenomad_875" target="_blank">
+  <a href="https://instagram.com/nmjutty69" target="_blank">
     <img src="https://img.icons8.com/fluency/96/instagram-new.png" width="46" height="46" alt="Instagram" title="Instagram" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
