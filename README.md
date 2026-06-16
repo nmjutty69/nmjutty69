@@ -501,15 +501,7 @@ Building enterprise-grade healthcare and SaaS systems with a focus on backend ar
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nmjutty69&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=A78BFA&area=true&area_color=7C3AED&hide_border=true&custom_title=Contribution%20Activity" width="100%" />
 </p>
 
----
 
-# Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nmjutty69/nmjutty69/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
-</p>
-
----
 
 # Current Focus
 
