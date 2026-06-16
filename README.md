@@ -7,82 +7,86 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software%20Engineering-Enterprise%20Systems-7C3AED?style=flat-square&logo=github&logoColor=white" alt="Software Engineering" />
+  <img src="https://img.shields.io/badge/Software%20Engineer-Enterprise%20Systems-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Software Engineer" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/AI%2FML-RAG%20%7C%20LLMs%20%7C%20Automation-4F46E5?style=flat-square&logo=openai&logoColor=white" alt="AI ML" />
+  <img src="https://img.shields.io/badge/Full%20Stack-.NET%20Core%20%7C%20Next.js-4F46E5?style=for-the-badge&logo=dotnet&logoColor=white" alt="Full Stack Developer" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Full%20Stack-.NET%20Core%20%7C%20Next.js-2563EB?style=flat-square&logo=dotnet&logoColor=white" alt="Full Stack" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Location-Pakistan-312E81?style=flat-square&logo=googlemaps&logoColor=white" alt="Location Pakistan" />
+  <img src="https://img.shields.io/badge/AI%20Engineer-LLMs%20%7C%20RAG%20%7C%20Automation-312E81?style=for-the-badge&logo=openai&logoColor=white" alt="AI Engineer" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Healthcare%20SaaS-Workflow%20Systems-A855F7?style=flat-square&logo=medusa&logoColor=white" alt="Healthcare SaaS" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Product%20Engineering-Scalable%20Platforms-7C3AED?style=flat-square&logo=vercel&logoColor=white" alt="Product Engineering" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Location-Pakistan-4F46E5?style=flat-square&logo=googlemaps&logoColor=white" alt="Pakistan" />
 </p>
 
 <br/>
 
 <p align="center">
   <a href="https://nmjutty69.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/nmjutty69" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:nauman.dev001@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact-A855F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/nmjutty69" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-312E81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:nauman.dev001@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact-A855F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nmjutty69&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=nmjutty69&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile Views" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/nmjutty69?label=Followers&style=flat-square&color=4F46E5&logo=github" alt="GitHub Followers" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/GitHub%20Stars-Profile%20Repos-A855F7?style=flat-square&logo=github&logoColor=white" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/followers/nmjutty69?label=Followers&style=for-the-badge&color=4F46E5&logo=github" alt="GitHub Followers" />
 </p>
 
 <br/>
 
+<h3 align="center">Professional Profiles</h3>
+
 <p align="center">
-  <a href="https://github.com/nmjutty69" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-nmjutty69-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/nmjutty69" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-nmjutty69-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://upwork.com/freelancers/~01cfa2a4d7629ccc2a" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-Available%20for%20Projects-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Profile" />
+    <img src="https://img.shields.io/badge/Upwork-Available%20for%20Projects-312E81?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.fiverr.com/users/nmjutty69/" target="_blank">
-    <img src="https://img.shields.io/badge/Fiverr-Freelance%20Services-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr Profile" />
+    <img src="https://img.shields.io/badge/Fiverr-Freelance%20Services-4F46E5?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/nmjutty69" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-nmjutty69-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/nmjutty69" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-nmjutty69-A855F7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
 </p>
 
 <br/>
 
+<h3 align="center">Social Presence</h3>
+
 <p align="center">
-  <a href="mailto:nauman.dev001@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-nauman.dev001%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/bytenomad_875" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-bytenomad__875-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-bytenomad__875-7C3AED?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@nmjutty69" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-nmjutty69-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-nmjutty69-4F46E5?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://facebook.com/nmjutty69" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-nmjutty69-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-nmjutty69-312E81?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
 
