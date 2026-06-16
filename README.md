@@ -26,19 +26,19 @@
 
 <p align="center">
   <a href="https://nmjutty69.github.io" target="_blank">
-    <img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="36" height="36" alt="Portfolio" title="Portfolio" />
+    <img src="https://img.icons8.com/fluency/96/domain.png" width="46" height="46" alt="Portfolio" title="Portfolio" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/nmjutty69" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="36" height="36" alt="LinkedIn" title="LinkedIn" />
+    <img src="https://img.icons8.com/color/96/linkedin.png" width="46" height="46" alt="LinkedIn" title="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/nmjutty69" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="36" height="36" alt="GitHub" title="GitHub" />
+    <img src="https://img.icons8.com/glyph-neue/96/ffffff/github.png" width="46" height="46" alt="GitHub" title="GitHub" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:nauman.dev001@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="36" height="36" alt="Gmail" title="Gmail" />
+    <img src="https://img.icons8.com/color/96/gmail-new.png" width="46" height="46" alt="Gmail" title="Gmail" />
   </a>
 </p>
 
@@ -47,7 +47,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nmjutty69&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" alt="Profile Views" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/nmjutty69?label=FOLLOWERS&style=for-the-badge&labelColor=111827&color=4F46E5&logo=github&logoColor=white" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/FOLLOWERS-2-4F46E5?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" alt="GitHub Followers" />
 </p>
 
 <br/>
@@ -56,19 +56,19 @@
 
 <p align="center">
   <a href="https://upwork.com/freelancers/~01cfa2a4d7629ccc2a" target="_blank">
-    <img src="https://cdn.simpleicons.org/upwork/14A800" width="42" height="42" alt="Upwork" title="Upwork" />
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-upwork-is-a-global-freelancing-platform-where-businesses-and-independent-professionals-connect-logo-color-tal-revivo.png" width="46" height="46" alt="Upwork" title="Upwork" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.fiverr.com/users/nmjutty69/" target="_blank">
-    <img src="https://cdn.simpleicons.org/fiverr/1DBF73" width="42" height="42" alt="Fiverr" title="Fiverr" />
+    <img src="https://img.icons8.com/color/96/fiverr.png" width="46" height="46" alt="Fiverr" title="Fiverr" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/nmjutty69" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="42" height="42" alt="GitHub" title="GitHub" />
+    <img src="https://img.icons8.com/glyph-neue/96/ffffff/github.png" width="46" height="46" alt="GitHub" title="GitHub" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/nmjutty69" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" height="42" alt="LinkedIn" title="LinkedIn" />
+    <img src="https://img.icons8.com/color/96/linkedin.png" width="46" height="46" alt="LinkedIn" title="LinkedIn" />
   </a>
 </p>
 
@@ -78,18 +78,17 @@
 
 <p align="center">
   <a href="https://instagram.com/bytenomad_875" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="42" height="42" alt="Instagram" title="Instagram" />
+    <img src="https://img.icons8.com/fluency/96/instagram-new.png" width="46" height="46" alt="Instagram" title="Instagram" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@nmjutty69" target="_blank">
-    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="42" height="42" alt="YouTube" title="YouTube" />
+    <img src="https://img.icons8.com/color/96/youtube-play.png" width="46" height="46" alt="YouTube" title="YouTube" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://facebook.com/nmjutty69" target="_blank">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="42" height="42" alt="Facebook" title="Facebook" />
+    <img src="https://img.icons8.com/color/96/facebook-new.png" width="46" height="46" alt="Facebook" title="Facebook" />
   </a>
 </p>
-
 ---
 
 # About
