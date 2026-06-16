@@ -494,15 +494,6 @@ Building enterprise-grade healthcare and SaaS systems with a focus on backend ar
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nmjutty69&theme=github_dark&utcOffset=5" width="49%" />
 </p>
 
----
-
-# GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nmjutty69&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=7" width="100%" />
-</p>
-
----
 
 # Contribution Activity
 
@@ -552,7 +543,7 @@ Open_To:
   - Open Source Collaboration
 ```
 
-**Connect**
+**#Connect**
 
 <p align="center">
   <a href="https://nmjutty69.github.io" target="_blank">
