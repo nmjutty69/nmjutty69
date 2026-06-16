@@ -62,25 +62,61 @@ My engineering approach is product-driven: I care about performance, maintainabi
 ## Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,ts,js,python,java,cpp,html,css,sql" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,c,java,python,js,ts,php" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
 ## Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,redux,tailwind,bootstrap,html,css,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/shadcn%2Fui-111827?style=for-the-badge&logo=shadcnui&logoColor=white" />
 </p>
 
 ## Backend & Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,nestjs,fastapi,flask,mysql,postgres,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=dotnet,laravel,mysql" />
 </p>
 
-## Cloud, DevOps & Tooling
+<p align="center">
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity%20Framework-7C3AED?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ADO.NET-4F46E5?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/RESTful%20APIs-2563EB?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
+## AI, Automation & Tooling
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,githubactions,vercel,git,github,postman,visualstudio,vscode,linux" />
+  <img src="https://img.shields.io/badge/AI%20Chatbots-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-4F46E5?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-312E81?style=for-the-badge&logo=semanticweb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embeddings-2563EB?style=for-the-badge&logo=vectorlogozone&logoColor=white" />
+  <img src="https://img.shields.io/badge/Context--Aware%20Assistants-A855F7?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/ElevenLabs-Voice%20AI-7C3AED?style=for-the-badge&logo=soundcharts&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,postman,visualstudio,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bruno-F4AA41?style=for-the-badge&logo=postman&logoColor=black" />
+  <img src="https://img.shields.io/badge/SSMS-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenClaw-AI%20Agent%20Runtime-4F46E5?style=for-the-badge&logo=robotframework&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zapier-Automation-FF4F00?style=for-the-badge&logo=zapier&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
 ---
