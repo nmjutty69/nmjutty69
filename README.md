@@ -26,28 +26,28 @@
 
 <p align="center">
   <a href="https://nmjutty69.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="36" height="36" alt="Portfolio" title="Portfolio" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/nmjutty69" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="36" height="36" alt="LinkedIn" title="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/nmjutty69" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-312E81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="36" height="36" alt="GitHub" title="GitHub" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:nauman.dev001@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact-A855F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="36" height="36" alt="Gmail" title="Gmail" />
   </a>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nmjutty69&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=nmjutty69&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" alt="Profile Views" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/nmjutty69?label=Followers&style=for-the-badge&color=4F46E5&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/followers/nmjutty69?label=FOLLOWERS&style=for-the-badge&labelColor=111827&color=4F46E5&logo=github&logoColor=white" alt="GitHub Followers" />
 </p>
 
 <br/>
@@ -56,19 +56,19 @@
 
 <p align="center">
   <a href="https://upwork.com/freelancers/~01cfa2a4d7629ccc2a" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-Available%20for%20Projects-312E81?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
+    <img src="https://cdn.simpleicons.org/upwork/14A800" width="42" height="42" alt="Upwork" title="Upwork" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.fiverr.com/users/nmjutty69/" target="_blank">
-    <img src="https://img.shields.io/badge/Fiverr-Freelance%20Services-4F46E5?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
+    <img src="https://cdn.simpleicons.org/fiverr/1DBF73" width="42" height="42" alt="Fiverr" title="Fiverr" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/nmjutty69" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-nmjutty69-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="42" height="42" alt="GitHub" title="GitHub" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/nmjutty69" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-nmjutty69-A855F7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" height="42" alt="LinkedIn" title="LinkedIn" />
   </a>
 </p>
 
@@ -78,15 +78,15 @@
 
 <p align="center">
   <a href="https://instagram.com/bytenomad_875" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-bytenomad__875-7C3AED?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="42" height="42" alt="Instagram" title="Instagram" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@nmjutty69" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-nmjutty69-4F46E5?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="42" height="42" alt="YouTube" title="YouTube" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://facebook.com/nmjutty69" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-nmjutty69-312E81?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="42" height="42" alt="Facebook" title="Facebook" />
   </a>
 </p>
 
@@ -617,57 +617,6 @@ Open_To:
   - Open Source Collaboration
 ```
 
----
-
-# Connect
-
-<p align="center">
-  <a href="mailto:nauman.dev001@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-nauman.dev001%40gmail.com-A855F7?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/nmjutty69" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-nmjutty69-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/nmjutty69" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-nmjutty69-312E81?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://nmjutty69.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
-<br/>
-
-<p align="center">
-  <a href="https://upwork.com/freelancers/~01cfa2a4d7629ccc2a" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-Available%20for%20Projects-14A800?style=for-the-badge&logo=upwork&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.fiverr.com/users/nmjutty69/" target="_blank">
-    <img src="https://img.shields.io/badge/Fiverr-Freelance%20Services-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/bytenomad_875" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-bytenomad__875-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@nmjutty69" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-nmjutty69-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</p>
-
-<br/>
-
-<p align="center">
-  <a href="https://facebook.com/nmjutty69" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-nmjutty69-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-</p>
-
----
 
 <p align="center">
   <strong>Engineering scalable systems, intelligent automation, and product-grade software with clarity, precision, and long-term maintainability.</strong>
