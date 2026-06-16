@@ -7,31 +7,83 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software%20Engineering-Enterprise%20Systems-7C3AED?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%2FML-RAG%20%7C%20LLMs%20%7C%20Automation-4F46E5?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full%20Stack-.NET%20Core%20%7C%20Next.js-2563EB?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Pakistan-312E81?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Software%20Engineering-Enterprise%20Systems-7C3AED?style=flat-square&logo=github&logoColor=white" alt="Software Engineering" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/AI%2FML-RAG%20%7C%20LLMs%20%7C%20Automation-4F46E5?style=flat-square&logo=openai&logoColor=white" alt="AI ML" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Full%20Stack-.NET%20Core%20%7C%20Next.js-2563EB?style=flat-square&logo=dotnet&logoColor=white" alt="Full Stack" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Location-Pakistan-312E81?style=flat-square&logo=googlemaps&logoColor=white" alt="Location Pakistan" />
 </p>
+
+<br/>
 
 <p align="center">
   <a href="https://nmjutty69.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/nmjutty69" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:nauman.dev001@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact-A855F7?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-A855F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/nmjutty69" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-312E81?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-312E81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
+<br/>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nmjutty69&label=Profile%20Views&color=7C3AED&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/nmjutty69?label=Followers&style=flat-square&color=4F46E5&logo=github" />
-  <img src="https://img.shields.io/github/stars/nmjutty69?label=GitHub%20Stars&style=flat-square&color=A855F7&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=nmjutty69&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile Views" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/nmjutty69?label=Followers&style=flat-square&color=4F46E5&logo=github" alt="GitHub Followers" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GitHub%20Stars-Profile%20Repos-A855F7?style=flat-square&logo=github&logoColor=white" alt="GitHub Stars" />
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/nmjutty69" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-nmjutty69-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/nmjutty69" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-nmjutty69-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://upwork.com/freelancers/~01cfa2a4d7629ccc2a" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-Available%20for%20Projects-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Profile" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.fiverr.com/users/nmjutty69/" target="_blank">
+    <img src="https://img.shields.io/badge/Fiverr-Freelance%20Services-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr Profile" />
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="mailto:nauman.dev001@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-nauman.dev001%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/bytenomad_875" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-bytenomad__875-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@nmjutty69" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-nmjutty69-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://facebook.com/nmjutty69" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-nmjutty69-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
 </p>
 
 ---
@@ -97,8 +149,11 @@ My engineering approach is product-driven: I care about performance, maintainabi
 
 <p align="center">
   <img src="https://img.shields.io/badge/ShadCN%2FUI-111827?style=for-the-badge&logo=shadcnui&logoColor=white" alt="ShadCN UI" title="ShadCN UI" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Responsive%20Design-2563EB?style=for-the-badge&logo=css3&logoColor=white" alt="Responsive Design" title="Responsive Design" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Dark%20Mode-312E81?style=for-the-badge&logo=darkreader&logoColor=white" alt="Dark Mode" title="Dark Mode" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Skeleton%20Loading-7C3AED?style=for-the-badge&logo=react&logoColor=white" alt="Skeleton Loading" title="Skeleton Loading" />
 </p>
 
@@ -112,10 +167,15 @@ My engineering approach is product-driven: I care about performance, maintainabi
 
 <p align="center">
   <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" title="React.js" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" title="Next.js" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" title="Three.js" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React%20Three%20Fiber-7C3AED?style=for-the-badge&logo=react&logoColor=white" alt="React Three Fiber" title="React Three Fiber" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Real--Time%20UI-2563EB?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Real-Time UI" title="Real-Time UI" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Data--Intensive%20Dashboards-4F46E5?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Data-Intensive Dashboards" title="Data-Intensive Dashboards" />
 </p>
 
@@ -129,10 +189,15 @@ My engineering approach is product-driven: I care about performance, maintainabi
 
 <p align="center">
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" title="ASP.NET Core" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET MVC" title="ASP.NET MVC" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Entity%20Framework-7C3AED?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework" title="Entity Framework" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/ADO.NET-4F46E5?style=for-the-badge&logo=dotnet&logoColor=white" alt="ADO.NET" title="ADO.NET" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" title="Laravel" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/RESTful%20APIs-2563EB?style=for-the-badge&logo=fastapi&logoColor=white" alt="RESTful APIs" title="RESTful APIs" />
 </p>
 
@@ -140,9 +205,13 @@ My engineering approach is product-driven: I care about performance, maintainabi
 
 <p align="center">
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" title="SQL Server" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" title="MySQL" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Database%20Design-312E81?style=for-the-badge&logo=databricks&logoColor=white" alt="Database Design" title="Database Design" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Stored%20Procedures-4F46E5?style=for-the-badge&logo=databricks&logoColor=white" alt="Stored Procedures" title="Stored Procedures" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Query%20Optimization-2563EB?style=for-the-badge&logo=databricks&logoColor=white" alt="Query Optimization" title="Query Optimization" />
 </p>
 
@@ -150,11 +219,17 @@ My engineering approach is product-driven: I care about performance, maintainabi
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Chatbots-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="AI Chatbots" title="AI Chatbots" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/LLMs-4F46E5?style=for-the-badge&logo=openai&logoColor=white" alt="Large Language Models" title="Large Language Models" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/RAG%20Pipelines-312E81?style=for-the-badge&logo=semanticweb&logoColor=white" alt="RAG Pipelines" title="RAG Pipelines" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Embedding%20Models-2563EB?style=for-the-badge&logo=vectorlogozone&logoColor=white" alt="Embedding Models" title="Embedding Models" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Context--Aware%20Assistants-A855F7?style=for-the-badge&logo=anthropic&logoColor=white" alt="Context-Aware Assistants" title="Context-Aware Assistants" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Document--Aware%20AI-4F46E5?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Document-Aware AI" title="Document-Aware AI" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Voice%20AI-ElevenLabs-7C3AED?style=for-the-badge&logo=elevenlabs&logoColor=white" alt="Voice AI with ElevenLabs" title="Voice AI with ElevenLabs" />
 </p>
 
@@ -162,10 +237,15 @@ My engineering approach is product-driven: I care about performance, maintainabi
 
 <p align="center">
   <img src="https://img.shields.io/badge/OpenClaw-AI%20Agent%20Runtime-4F46E5?style=for-the-badge&logo=robotframework&logoColor=white" alt="OpenClaw" title="OpenClaw AI Agent Runtime" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Zapier-Workflow%20Automation-FF4F00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier" title="Zapier Workflow Automation" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/n8n-Automation%20Workflows-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" title="n8n Automation Workflows" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Background%20Jobs-312E81?style=for-the-badge&logo=clockify&logoColor=white" alt="Background Jobs" title="Background Jobs" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Scheduled%20Workflows-2563EB?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Scheduled Workflows" title="Scheduled Workflows" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Real--Time%20Notifications-7C3AED?style=for-the-badge&logo=notifications&logoColor=white" alt="Real-Time Notifications" title="Real-Time Notifications" />
 </p>
 
@@ -173,10 +253,15 @@ My engineering approach is product-driven: I care about performance, maintainabi
 
 <p align="center">
   <img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="SignalR" title="SignalR" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Agora.io-099DFD?style=for-the-badge&logo=webrtc&logoColor=white" alt="Agora.io" title="Agora.io" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JWT%20Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT Authentication" title="JWT Authentication" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MFA%20Security-4F46E5?style=for-the-badge&logo=auth0&logoColor=white" alt="MFA Security" title="MFA Security" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Billing%20Workflows-7C3AED?style=for-the-badge&logo=stripe&logoColor=white" alt="Billing Workflows" title="Billing Workflows" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Email%20%26%20SMS%20Automation-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email and SMS Automation" title="Email and SMS Automation" />
 </p>
 
@@ -190,8 +275,11 @@ My engineering approach is product-driven: I care about performance, maintainabi
 
 <p align="center">
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" title="Swagger" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Bruno-F4AA41?style=for-the-badge&logo=bruno&logoColor=black" alt="Bruno" title="Bruno API Client" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/API%20Testing-312E81?style=for-the-badge&logo=postman&logoColor=white" alt="API Testing" title="API Testing" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/API%20Documentation-4F46E5?style=for-the-badge&logo=swagger&logoColor=white" alt="API Documentation" title="API Documentation" />
 </p>
 
@@ -205,8 +293,11 @@ My engineering approach is product-driven: I care about performance, maintainabi
 
 <p align="center">
   <img src="https://img.shields.io/badge/SSMS-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server Management Studio" title="SQL Server Management Studio" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" title="Slack" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" title="Visual Studio" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" title="VS Code" />
 </p>
 
@@ -214,13 +305,20 @@ My engineering approach is product-driven: I care about performance, maintainabi
 
 <p align="center">
   <img src="https://img.shields.io/badge/MVC%20Architecture-312E81?style=for-the-badge" alt="MVC Architecture" title="MVC Architecture" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/RESTful%20API%20Development-2563EB?style=for-the-badge" alt="RESTful API Development" title="RESTful API Development" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Entity%20Framework-7C3AED?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework" title="Entity Framework" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/ADO.NET-4F46E5?style=for-the-badge&logo=dotnet&logoColor=white" alt="ADO.NET" title="ADO.NET" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/RBAC-312E81?style=for-the-badge&logo=auth0&logoColor=white" alt="Role-Based Access Control" title="Role-Based Access Control" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Audit%20Logging-4F46E5?style=for-the-badge&logo=datadog&logoColor=white" alt="Audit Logging" title="Audit Logging" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Workflow%20Orchestration-7C3AED?style=for-the-badge&logo=airflow&logoColor=white" alt="Workflow Orchestration" title="Workflow Orchestration" />
 </p>
+
 ---
 
 # AI / ML Expertise
@@ -419,12 +517,15 @@ Building enterprise-grade healthcare and SaaS systems with a focus on backend ar
   <a href="https://leetcode.com/nmjutty69" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.geeksforgeeks.org/user/nmjutty69" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-DSA%20Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/nmjutty69" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-Coding%20Challenges-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.codechef.com/users/nmjutty69" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-Competitive%20Coding-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
@@ -436,6 +537,7 @@ Building enterprise-grade healthcare and SaaS systems with a focus on backend ar
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nmjutty69&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" height="180" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com?user=nmjutty69&theme=midnight-purple&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C9D1D9&sideLabels=A78BFA&dates=C9D1D9" height="180" />
 </p>
 
@@ -449,6 +551,7 @@ Building enterprise-grade healthcare and SaaS systems with a focus on backend ar
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nmjutty69&theme=github_dark" width="49%" />
+  &nbsp;&nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nmjutty69&theme=github_dark&utcOffset=5" width="49%" />
 </p>
 
@@ -518,14 +621,45 @@ Open_To:
   <a href="mailto:nauman.dev001@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-nauman.dev001%40gmail.com-A855F7?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/nmjutty69" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-nmjutty69-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/nmjutty69" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-nmjutty69-312E81?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://nmjutty69.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://upwork.com/freelancers/~01cfa2a4d7629ccc2a" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-Available%20for%20Projects-14A800?style=for-the-badge&logo=upwork&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.fiverr.com/users/nmjutty69/" target="_blank">
+    <img src="https://img.shields.io/badge/Fiverr-Freelance%20Services-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/bytenomad_875" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-bytenomad__875-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@nmjutty69" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-nmjutty69-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://facebook.com/nmjutty69" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-nmjutty69-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
 
